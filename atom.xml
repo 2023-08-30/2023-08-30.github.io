@@ -6,7 +6,7 @@
   <link href="http://2023-08-30.github.io/atom.xml" rel="self"/>
   
   <link href="http://2023-08-30.github.io/"/>
-  <updated>2024-11-13T08:38:48.361Z</updated>
+  <updated>2024-11-14T01:54:52.989Z</updated>
   <id>http://2023-08-30.github.io/</id>
   
   <author>
@@ -21,13 +21,23 @@
     <link href="http://2023-08-30.github.io/2024/11/13/%E5%BC%84%E7%9D%80%E7%8E%A9/"/>
     <id>http://2023-08-30.github.io/2024/11/13/%E5%BC%84%E7%9D%80%E7%8E%A9/</id>
     <published>2024-11-13T08:33:42.000Z</published>
-    <updated>2024-11-13T08:38:48.361Z</updated>
+    <updated>2024-11-14T01:54:52.989Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;自我介绍&quot;&gt;&lt;a href=&quot;#自我介绍&quot; class=&quot;headerlink&quot; title=&quot;自我介绍&quot;&gt;&lt;/a&gt;自我介绍&lt;/h1&gt;&lt;p&gt;  hello,大家好，我是小橙橙&lt;/p&gt;
+&lt;h1 id=&quot;哈喽&quot;&gt;&lt;a href=&quot;#哈喽&quot; class=&quot;headerl</summary>
+      
     
     
     
+    <category term="Disry" scheme="http://2023-08-30.github.io/categories/Disry/"/>
     
     
-    <category term="娱乐" scheme="http://2023-08-30.github.io/tags/%E5%A8%B1%E4%B9%90/"/>
+    <category term="Testring" scheme="http://2023-08-30.github.io/tags/Testring/"/>
+    
+    <category term="Another Tag" scheme="http://2023-08-30.github.io/tags/Another-Tag/"/>
     
   </entry>
   
