@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>一个普通的周末</title>
-    <url>/posts/7be26ccc/</url>
-    <content><![CDATA[<h1 id="脑袋里空空的"><a href="#脑袋里空空的" class="headerlink" title="脑袋里空空的"></a>脑袋里空空的</h1><p><code> 想着学点技术，可是呢，总是找不到方向</code></p>
-<h1 id="阶段"><a href="#阶段" class="headerlink" title="阶段"></a>阶段</h1><p><code> 现在是大三上学期第11周的现状</code></p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>弄着玩</title>
     <url>/posts/40959/</url>
     <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><p>  hello,大家好，我是小橙橙</p>
@@ -25,6 +12,19 @@
       </categories>
       <tags>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个普通的周末</title>
+    <url>/posts/7be26ccc/</url>
+    <content><![CDATA[<h1 id="脑袋里空空的"><a href="#脑袋里空空的" class="headerlink" title="脑袋里空空的"></a>脑袋里空空的</h1><p><code> 想着学点技术，可是呢，总是找不到方向</code></p>
+<h1 id="阶段"><a href="#阶段" class="headerlink" title="阶段"></a>阶段</h1><p><code> 现在是大三上学期第11周的现状</code></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
       </tags>
   </entry>
 </search>
